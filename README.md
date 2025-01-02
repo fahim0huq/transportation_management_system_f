@@ -1,6 +1,10 @@
 # tms_iiuc
 
 A new Flutter project.
+login credentials:
+email: fahim@gmail.com
+password:123456
+
 
 ## Getting Started
 
